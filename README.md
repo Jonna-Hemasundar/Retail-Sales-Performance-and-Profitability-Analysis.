@@ -84,7 +84,7 @@ The project includes:
 Clone the repository:
 
 ```bash
-git clone https://github.com/Jonna-Hemasundar/EDA-Project.git
+git clone https://github.com/Jonna-Hemasundar/Retail Sales Performance and Profitability Analysis.git
 ```
 
 Install dependencies:
